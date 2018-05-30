@@ -6,6 +6,12 @@ This is a simple bootstrap framework.
 
 Build With:
 
-Html5
+HTML5
+
+Brackets
+
+JSBin
+
+
 
 Live Version: https://csabesz91.github.io/Bootstrap/
